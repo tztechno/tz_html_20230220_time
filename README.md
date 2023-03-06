@@ -2,5 +2,5 @@
 new york time
 
 
-### New York Current Time and Date
-##### The current date and time in New York is: 
+<h1> New York Current Time and Date </h1>
+The current date and time in New York is: 
